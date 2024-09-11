@@ -1,6 +1,6 @@
 import java.util.Random;
 import java.util.Scanner;
-public class Random_Number_Game{
+public class Random_Number_Game {
     public static void main(String args[]){
         Random rdm = new Random();
         Scanner sc = new Scanner(System.in);
