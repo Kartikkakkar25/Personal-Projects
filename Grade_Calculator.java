@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class task2 {
+public class Grade_Calculator {
     public int eng;
     public int hindi;
     public int math;
